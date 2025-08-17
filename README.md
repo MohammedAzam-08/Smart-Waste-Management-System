@@ -52,31 +52,23 @@ Smart-Waste-Management-System/
 ├── uploads/          # Uploaded complaint & cleaned photos
 🚀 Getting Started
 1️⃣ Clone the Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/MohammedAzam-08/Smart-Waste-Management-System.git
 cd Smart-Waste-Management-System
 2️⃣ Install Dependencies
 For Frontend + Node.js Backend (Quick Start)
-bash
-Copy
-Edit
+
 npm install
 npm run dev
 For Spring Boot Backend (Optional)
-bash
-Copy
-Edit
+
 cd backend
 mvn clean install
 mvn spring-boot:run
 🔐 Environment Variables
 Create a .env file in the root directory:
-
 env
-Copy
-Edit
+
 # Server Configuration
 PORT=3001
 JWT_SECRET=your-secret-key-here
@@ -129,9 +121,6 @@ Full Stack Developer | MCA '25 | Bengaluru, India
 
 ⭐ If you found this project useful, don’t forget to Star 🌟 the repo and share feedback!
 
-yaml
-Copy
-Edit
 
 ---
 
